@@ -6,3 +6,8 @@ The strength of penalization is determined by Covaraince Information Criterion.
 For the selection of tunning parameters, a grid search process is introduced.
 
 Please also check the publication "Automatic shape-constraint non-parametric regression" for the theoretic properties and application.
+
+
+This is the 1.0.4 version with example data. 
+The file is compressed installed package for R.
+Please install through your R system.
